@@ -1,4 +1,4 @@
 # All About ME!
 HEllo world, This is my first time on Git Hub.
 
-and Oh, **Josh Allen is Goat**
+I am Anushk,I am planning to study Computer Science and Mahths
